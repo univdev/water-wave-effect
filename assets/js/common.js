@@ -73,7 +73,7 @@ class Point {
     this.fixedY = fixedY;
     this.x = fixedX;
     this.y = fixedY;
-    this.maxDistance = Math.random() * 100 + 150;
+    this.maxDistance = Math.random() * 100 + 300;
     this.cur = 0;
     this.speed = 0.1;
   }
